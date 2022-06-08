@@ -1,0 +1,11 @@
+{
+    "emmet.includeLanguages": {
+        "*.erb": "html",
+        "ruby": "html"
+    },
+    "emmet.syntaxProfiles": {
+    
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showSuggestionsAsSnippets": true
+}
